@@ -25,7 +25,7 @@ export const amazonTag = "acestore079-20";
 // GOOGLE SEARCH CONSOLE — código de verificación (meta tag)
 // Se genera al registrar la propiedad en GSC. Formato: "abc123..."
 // ============================================================
-export const googleSiteVerification = ""; // ⬅️ pegar código de GSC aquí
+export const googleSiteVerification = "wB7NAXNxdO6PmKoSXDQL500yMQTMSGTA-jEBJnFWThw"; // código de GSC
 
 // Tienda de Amazon por idioma (ambos apuntan a .ca por ahora:
 // audiencia principal = trabajadores en Canadá)

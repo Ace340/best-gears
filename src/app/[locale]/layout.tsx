@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { locales, t, type Locale } from "@/lib/i18n";
-import { site } from "@/lib/site.config";
+import { site, googleSiteVerification } from "@/lib/site.config";
 import "../globals.css";
 
 export function generateStaticParams() {
@@ -24,6 +24,9 @@ export async function generateMetadata({
       template: `%s | ${site.name}`,
     },
     description: es ? site.descriptionEs : site.descriptionEn,
+    verification: {
+      google: googleSiteVerification || undefined,
+    },
     alternates: {
       canonical: `${site.url}/${locale}`,
       languages: {

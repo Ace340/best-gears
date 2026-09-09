@@ -6,7 +6,8 @@
 export const site = {
   name: "ObraGear", // ⬅️ cambiar cuando Juan decida marca final
   domain: "obragear.com", // ⬅️ dominio pendiente de compra
-  url: "https://obragear.com",
+  // ⚠️ URL en vivo: cambiar a https://obragear.com cuando se compre el dominio
+  url: "https://best-gears.vercel.app",
   email: "hola@obragear.com", // ⬅️ crear al comprar dominio
   descriptionEs:
     "Guías honestas de equipo de trabajo: botas, loncheras, guantes y todo el gear que aguanta la obra real. Para trabajadores en Canadá y Norteamérica.",
@@ -19,6 +20,12 @@ export const site = {
 // ⚠️ REEMPLAZAR por el tag real de Juan (Associates Central)
 // ============================================================
 export const amazonTag = "acestore079-20";
+
+// ============================================================
+// GOOGLE SEARCH CONSOLE — código de verificación (meta tag)
+// Se genera al registrar la propiedad en GSC. Formato: "abc123..."
+// ============================================================
+export const googleSiteVerification = ""; // ⬅️ pegar código de GSC aquí
 
 // Tienda de Amazon por idioma (ambos apuntan a .ca por ahora:
 // audiencia principal = trabajadores en Canadá)

@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+/* ============================================================
+   Tipografía de artículos — estilos de prosa sin plugin
+   ============================================================ */
+.prose-article {
+  line-height: 1.75;
+}
+.prose-article h2 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+  color: #1c1917; /* stone-900 */
+}
+.prose-article h3 {
+  font-size: 1.2rem;
+  font-weight: 800;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #1c1917;
+}
+.prose-article p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #44403c; /* stone-700 */
+}
+.prose-article ul,
+.prose-article ol {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+  list-style: disc;
+  color: #44403c;
+}
+.prose-article ol {
+  list-style: decimal;
+}
+.prose-article li {
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+.prose-article a {
+  color: #b45309; /* amber-700 */
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.prose-article a:hover {
+  color: #d97706; /* amber-600 */
+}
+.prose-article strong {
+  font-weight: 800;
+  color: #1c1917;
+}
+.prose-article blockquote {
+  border-left: 4px solid #fbbf24; /* amber-400 */
+  padding-left: 1rem;
+  font-style: italic;
+  margin: 1.5rem 0;
+  color: #57534e;
+}
+.prose-article img {
+  border-radius: 0.75rem;
+  margin: 1.5rem 0;
+}

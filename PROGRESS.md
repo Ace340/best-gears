@@ -1,6 +1,6 @@
 # 📋 Progreso y Roadmap — Best Gears (Amazon Afiliados)
 
-*Actualizado: 9 de septiembre, 2026*
+*Actualizado: 9 de septiembre, 2026 — 2:25 PM (tarde)*
 
 ---
 
@@ -32,17 +32,23 @@
     | KPR Thinsulate Full-Grain | `B08X2V5KFR` | ❄️ Mejor para invierno |
     | KELODON Anti-Punción | `B0CFHMP1FJ` | 📌 Mejor anti-clavos |
     | MooseLog Chelsea | `B0H1K2T1YX` | 🦶 Más práctica sin cordones |
+- [x] **Artículo #2 publicado** (ES + EN): *"Las Mejores Loncheras Térmicas para Trabajo (2026)"* — 4 productos reales:
+  - Lifewit Térmica `B0BW3KP1V2` — ⚖️ Mejor equilibrio (pick)
+  - Expandable 24 Latas `B09Y93RGJC` — 🍱 Más espaciosa
+  - TRAVELISIMO Eléctrica `B0CHDNV5J4` — 🔥 La que calienta
+  - Portable Negra `B0BFHPYFR8` — 🎒 Más portable
+- [x] **Click registrado en Associates Central** ✅ — embudo completo verificado (sitio → tag → Amazon → reports)
 - [x] **Google Search Console verificado** ✅ (etiqueta HTML)
-- [x] Sitemap disponible en `/sitemap.xml`
+- [x] Sitemap enviado en GSC — *“Couldn't fetch” inicial = lag normal de propiedad nueva; reenviar si persiste el 10 sept*
 
 ---
 
 ## 🚀 Siguientes pasos (en orden de prioridad)
 
 ### Esta semana
-1. **Enviar sitemap en GSC** — Sitemaps → `sitemap.xml` → Enviar *(2 min)*
-2. **Confirmar tracking de clicks** — dar clic a un botón de Amazon desde el sitio y verificar mañana en Associates Central → Reports *(5 min)*
-3. **Artículo #2** — "Lonchera térmica para trabajo" (temporada fría acercándose 🍂) o "Botas más cómodas para estar de pie todo el día"
+1. ~~Enviar sitemap en GSC~~ ✅ hecho (pendiente confirmar “Correcto” tras el lag de Google)
+2. ~~Confirmar tracking de clicks~~ ✅ hecho (click registrado)
+3. **Artículo #3** — "Termo para café que dura 12 horas" (Juan lo pospuso para más tarde — pedirle 3-4 links de termos cuando esté listo)
 4. **Bing Webmaster Tools** — importa todo desde GSC con un clic *(3 min, tráfico extra gratis)*
 
 ### Este mes

@@ -46,6 +46,15 @@ export default function ProductCard({
         </div>
       )}
       <div className="p-5">
+        {image && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={image}
+            alt={name}
+            loading="lazy"
+            className="mb-4 max-h-56 w-full rounded-lg object-contain"
+          />
+        )}
         <div className="flex flex-wrap items-start justify-between gap-3">
           <div className="flex-1">
             <h3 className="text-xl font-extrabold text-stone-900">{name}</h3>

@@ -18,7 +18,7 @@ export const site = {
 // AMAZON AFFILIATES
 // ⚠️ REEMPLAZAR por el tag real de Juan (Associates Central)
 // ============================================================
-export const amazonTag = "TU_TAG_AQUI-20";
+export const amazonTag = "acestore079-20";
 
 // Tienda de Amazon por idioma (ambos apuntan a .ca por ahora:
 // audiencia principal = trabajadores en Canadá)

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { Analytics } from "@vercel/analytics/react";
 import { locales, t, type Locale } from "@/lib/i18n";
 import { site, googleSiteVerification } from "@/lib/site.config";
 import "../globals.css";
@@ -58,6 +59,7 @@ export default async function LocaleLayout({
         <Header locale={locale as Locale} />
         <main className="flex-1">{children}</main>
         <Footer locale={locale as Locale} />
+        <Analytics />
       </body>
     </html>
   );

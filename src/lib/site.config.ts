@@ -4,11 +4,11 @@
 // ============================================================
 
 export const site = {
-  name: "ObraGear", // ⬅️ cambiar cuando Juan decida marca final
-  domain: "obragear.com", // ⬅️ dominio pendiente de compra
+  name: "DailyWorkGear",
+  domain: "dailyworkgear.ca", // ⬅️ pendiente comprar (verificar requisito CIRA; plan B dailyworkgear.net)
   // ⚠️ URL en vivo: cambiar a https://obragear.com cuando se compre el dominio
   url: "https://best-gears.vercel.app",
-  email: "hola@obragear.com", // ⬅️ crear al comprar dominio
+  email: "hola@dailyworkgear.ca", // ⬅️ crear al comprar dominio
   descriptionEs:
     "Guías honestas de equipo de trabajo: botas, loncheras, guantes y todo el gear que aguanta la obra real. Para trabajadores en Canadá y Norteamérica.",
   descriptionEn:

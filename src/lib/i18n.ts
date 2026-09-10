@@ -6,8 +6,8 @@ type Dict = Record<string, { es: string; en: string }>;
 
 export const dict: Dict = {
   siteTagline: {
-    es: "El equipo que aguanta la obra real",
-    en: "Gear that survives a real job site",
+    es: "El equipo que aguanta tu día a día",
+    en: "Gear for the everyday grind",
   },
   homeHeroTitle: {
     es: "Equipo de trabajo probado en obra, no en teoría",
